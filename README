@@ -1,0 +1,3 @@
+A grep-like tool for fast searches over large binary files.
+
+Attempts to be portable C99, but does require mmap(2).
